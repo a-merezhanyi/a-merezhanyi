@@ -1,10 +1,11 @@
 ### Hi there 👋
 
-- 🤗 Hi, I’m Anatol Merezhanyi @a-merezhanyi
-- 👀 I'm a Software Engineer, with a passion for every aspect of a developer’s life.
-- 🌱 I’m currently learning Go aka Golang
+- 🤗 Hi, I’m Anatol Merezhanyi, a Software Engineer, with a passion for every aspect of a developer’s life
+- 👀 I'm coding mostly JavaScript/Typescript and Python. Use Java, Rust and C# occasionally
+- 🔭 I’m currently working on [Python (Django) + JavaScript (React) Starter Kit](https://github.com/a-merezhanyi/django-react-boilerplate)
+- 🌱 I’m currently learning Go
 - 🎬 I'm a host of the ["Styled JavaScript"](https://www.youtube.com/c/StyledJavaScript?sub_confirmation=1) YouTube channel
-- 📫 You can find me at [Twitter](https://twitter.com/a_merezhanyi) or [Instagram](https://www.instagram.com/a.merezhanyi/)
+- 📫 You can find me at Twitter as [@a_merezhanyi](https://twitter.com/a_merezhanyi) or Instagram as [@a.merezhanyi](https://www.instagram.com/a.merezhanyi/)
 
 <!--
 **a-merezhanyi/a-merezhanyi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
